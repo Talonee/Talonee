@@ -13,6 +13,7 @@
 
 [<img align="left" alt="Portfolio" width="27px" src="https://img.icons8.com/nolan/64/domain.png" />][portfolio]
 [<img align="left" alt="LinkedIn" width="27px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
+[<img align="left" alt="Spotify" width="27px" src="https://img.icons8.com/nolan/64/spotify.png" />][spotify]
 
 <br />
 
@@ -32,3 +33,4 @@
 [website]: https://github.com/KuzscoTech/cppbot2020
 [portfolio]: https://talonee.github.io/
 [linkedin]: https://linkedin.com/in/Talonee
+[spotify]: https://open.spotify.com/playlist/2K0PgNfFwPUUUFCEktLFDX?si=rpz7tFLGSFK39bG7VOcETw
