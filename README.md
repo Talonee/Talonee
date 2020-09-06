@@ -5,7 +5,7 @@
 - 🐢 I’m currently learning MongoDB, Discord API, Numpy, and Numba.
 - 🎨 I have programming and graphic designing experiences.
 - 🚀 I plan to become a quantum computer engineer with my study of physics and hardware.
-- 🌌 Life Goals: Work on research projects with NASA and/or pursue a Ph.D. in Quantum Computing.
+- 🌌 Life goals: Work on research projects with NASA and/or pursue a Ph.D. in Quantum Computing.
 - 📚 Fun fact: I read Physics before I go to bed—guarantees to put me to sleep, 9/10 would recommend.
 
 
