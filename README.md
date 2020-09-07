@@ -2,7 +2,7 @@
 ## I'm a Computer Engineering + Physics student at Cal Poly Pomona (2023)!
 
 - 🤖 I’m currently collaborating on a [Discord Bot for Students][website] project with my friend!
-- 🐢 I’m currently learning MongoDB, Discord API, Numpy, and Numba.
+- 🐢 I’m learning MongoDB, Discord API, Numpy, and Numba.
 - 🎨 I have programming and graphic designing experiences.
 - 🚀 I plan to become a quantum computer engineer with my study of physics and hardware.
 - 🌌 Life goals: Work on research projects with NASA and/or pursue a Ph.D. in Quantum Computing.
