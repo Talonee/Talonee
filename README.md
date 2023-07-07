@@ -1,4 +1,4 @@
-![image](https://github.com/Talonee/Talonee/assets/34594908/a8198917-86b7-4f76-9bfd-f5131c99d809)### Hello hello, I am Talon. 🐢
+### Hello hello, I am Talon. 🐢
 ## I'm a Computer Engineering graduate from Cal Poly Pomona (2023)!
 
 - 🖥️ I'm currently working full time as a Data Processing Technician.
@@ -18,8 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Svelte" width="30px" src="![image](https://github.com/Talonee/Talonee/assets/34594908/1520a3ff-7cf2-4db2-a0fb-b9e3712b7216)
-" />
+<img align="left" alt="Svelte" width="30px" src="https://img.icons8.com/?size=512&id=Mm35TzLKahiF&format=png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Firebase" width="30px" src="https://icons8.com/icon/62452/firebase" />
 <img align="left" alt="TypeScript" width="30px" src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" />
