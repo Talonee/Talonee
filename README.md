@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Svelte" width="27px" src="https://icons8.com/icon/Mm35TzLKahiF/svelte" />
+<img align="left" alt="Svelte" width="27px" src="https://icons8.com/icon/color/48/000000/svelte" />
 <img align="left" alt="Python" width="27px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Firebase" width="27px" src="https://icons8.com/icon/62452/firebase" />
 <img align="left" alt="TypeScript" width="27px" src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" />
