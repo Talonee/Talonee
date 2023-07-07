@@ -20,8 +20,9 @@
 
 <img align="left" alt="Svelte" width="30px" src="https://img.icons8.com/?size=512&id=Mm35TzLKahiF&format=png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Firebase" width="30px" src="https://icons8.com/icon/62452/firebase" />
-<img align="left" alt="TypeScript" width="30px" src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" />
+<img align="left" alt="Firebase" width="30px" src="https://img.icons8.com/?size=512&id=87330&format=png" />
+<img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
+<img align="left" alt="Tailwind CSS" width="30px" src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" />
 <img align="left" alt="Git" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="VSC" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
