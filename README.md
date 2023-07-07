@@ -2,10 +2,10 @@
 ## I'm a Computer Engineering graduate from Cal Poly Pomona (2023)!
 
 - 🖥️ I'm currently working full time as a Data Processing Technician.
-- ⚡ My specialty lies in finding ways to automate and creating efficient solutions to problems.
+- ⚡ My specialty lies in automation using scripts and generally creating efficient solutions to problems.
 - 🎨 I enjoy employing creativity in my work: visually, programmatically, and interactively.
 - 🐢 I’m learning SvelteKit, TypeScript, and Firebase to become a web-app developer.
-- 🚀 I plan to become a quantum computer engineer with my study of physics and hardware.
+- 🚀 I seeking career opportunities in application development.
 
 
 ### Profiles:
@@ -23,7 +23,7 @@
 <img align="left" alt="Firebase" width="30px" src="https://img.icons8.com/?size=512&id=87330&format=png" />
 <img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" />
 <img align="left" alt="Tailwind CSS" width="30px" src="https://img.icons8.com/?size=512&id=4PiNHtUJVbLs&format=png" />
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/?size=512&id=20906&format=png" />
 <img align="left" alt="VSC" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
 <br />
