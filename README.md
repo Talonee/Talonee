@@ -5,7 +5,7 @@
 - ⚡ My specialty lies in automation using scripts and generally creating efficient solutions to problems.
 - 🎨 I enjoy employing creativity in my work: visually, programmatically, and interactively.
 - 🐢 I’m learning SvelteKit, TypeScript, and Firebase to become a web-app developer.
-- 🚀 I seeking career opportunities in application development.
+- 🚀 I'm seeking career opportunities in software/application development.
 
 
 ### Profiles:
