@@ -2,7 +2,7 @@
 ## I'm a Computer Engineering graduate from Cal Poly Pomona (2023)!
 
 - 🖥️ I'm currently working full time as a Data Processing Technician.
-- ⚡ My specialty lies in automation using scripts and generally creating efficient solutions to problems.
+- ⚡ My specialty lies in automation and generally finding efficient solutions to problems.
 - 🎨 I enjoy employing creativity in my work: visually, programmatically, and interactively.
 - 🐢 I’m learning SvelteKit, TypeScript, and Firebase to become a web-app developer.
 - 🚀 I'm seeking career opportunities in software/application development.
